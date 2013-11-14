@@ -9,7 +9,7 @@
     <file path="/default_controller.rb" changelist="1f74c078-97b7-4336-8d9a-26f0a6c0cb03" time="1384337344360" ignored="false" />
     <file path="/index.html.erb" changelist="1f74c078-97b7-4336-8d9a-26f0a6c0cb03" time="1384414204255" ignored="false" />
     <file path="/routes.rb" changelist="1f74c078-97b7-4336-8d9a-26f0a6c0cb03" time="1384337221877" ignored="false" />
-    <file path="/Dummy.txt" changelist="1f74c078-97b7-4336-8d9a-26f0a6c0cb03" time="1384414961346" ignored="false" />
+    <file path="/Dummy.txt" changelist="1f74c078-97b7-4336-8d9a-26f0a6c0cb03" time="1384414970651" ignored="false" />
     <file path="/say_hello.html.erb" changelist="1f74c078-97b7-4336-8d9a-26f0a6c0cb03" time="1384337370049" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -464,7 +464,11 @@
       <created>1384414965311</created>
       <updated>1384414965311</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Hello message">
+      <created>1384414972830</created>
+      <updated>1384414972830</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
