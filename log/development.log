@@ -904,3 +904,34 @@ Served asset /default.css - 304 Not Modified (0ms)
 
 Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-11-13 15:37:07 +0530
 Served asset /jquery.js - 304 Not Modified (2ms)
+
+
+Started GET "/default/index" for 127.0.0.1 at 2013-11-14 13:00:24 +0530
+Connecting to database specified by database.yml
+Processing by DefaultController#index as HTML
+  Rendered default/index.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 66ms (Views: 65.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-11-14 13:00:25 +0530
+Served asset /application.css - 304 Not Modified (21ms)
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2013-11-14 13:00:25 +0530
+Served asset /default.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-11-14 13:00:25 +0530
+Served asset /jquery.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-11-14 13:00:25 +0530
+Served asset /jquery_ujs.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/default.js?body=1" for 127.0.0.1 at 2013-11-14 13:00:25 +0530
+Served asset /default.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-11-14 13:00:25 +0530
+Served asset /application.js - 304 Not Modified (5ms)
